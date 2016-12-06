@@ -1,19 +1,19 @@
     // maandag van 8 to 24 uur 
 
-    var ma8 = "Dingen die ik om 8 uur doe maandag.";
-    var ma9 = "Dingen die ik om 9 uur doe maandag.";
-    var ma10 = "Dingen die ik om 10 uur doe maandag.";
-    var ma11 = "Dingen die ik om 11 uur doe maandag.";
-    var ma12 = "Dingen die ik om 12 uur doe maandag.";
-    var ma13 = "Dingen die ik om 13 uur doe maandag.";
-    var ma14 = "Dingen die ik om 14 uur doe maandag.";
-    var ma15 = "Dingen die ik om 15 uur doe maandag.";
-    var ma16 = "Dingen die ik om 16 uur doe maandag.";
-    var ma17 = "Dingen die ik om 17 uur doe maandag.";
-    var ma18 = "Dingen die ik om 18 uur doe maandag.";
-    var ma19 = "Dingen die ik om 19 uur doe maandag.";
-    var ma20 = "Dingen die ik om 20 uur doe maandag.";
-    var ma21 = "Dingen die ik om 21 uur doe maandag.";
-    var ma22 = "Dingen die ik om 22 uur doe maandag.";
-    var ma23 = "Dingen die ik om 23 uur doe maandag.";
-    var ma24 = "Dingen die ik om 24 uur doe maandag.";
+    var ma8 = "";
+    var ma9 = "";
+    var ma10 = "10:25-13:45 Server 1";
+    var ma11 = "10:25-13:45 Server 1";
+    var ma12 = "10:25-13:45 Server 1";
+    var ma13 = "10:25-13:45 Server 1";
+    var ma14 = "";
+    var ma15 = "";
+    var ma16 = "";
+    var ma17 = "";
+    var ma18 = "";
+    var ma19 = "";
+    var ma20 = "";
+    var ma21 = "";
+    var ma22 = "";
+    var ma23 = "";
+    var ma24 = "";

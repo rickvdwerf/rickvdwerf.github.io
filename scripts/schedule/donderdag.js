@@ -5,7 +5,7 @@
     var do10 = ""
     var do11 = ""
     var do12 = ""
-    var do13 = ""
+    var do13 = "donderdag dingen?"
     var do14 = ""
     var do15 = ""
     var do16 = ""
