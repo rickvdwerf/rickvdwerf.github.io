@@ -186,32 +186,5 @@ form fieldset {
 }
 
 #formbutton {
-	color: black;
-	background-color: red;
-	border-radius: 5px;
-	padding: 5px;
-	border: solid black 1px;
-}
-
-legend#post {
-	font-size: 20px;
-}
-
-#post {
-	margin-left: 5%;
-}
-
-#comment {
-	margin-left: 7.5%;
-	font-size: 15px;
-}
-
-#mailme {
-	font-size: 20px;
-	text-decoration: none;
-	color: black;
-}
-
-legend {
-	color: darkred;
+	color: red;
 }

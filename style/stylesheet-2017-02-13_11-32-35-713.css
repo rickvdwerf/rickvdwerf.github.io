@@ -209,9 +209,6 @@ legend#post {
 #mailme {
 	font-size: 20px;
 	text-decoration: none;
-	color: black;
-}
-
-legend {
-	color: darkred;
+	color: red;
+	padding-bottom: 5%;
 }
