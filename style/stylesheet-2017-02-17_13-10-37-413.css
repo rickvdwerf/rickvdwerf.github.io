@@ -248,6 +248,7 @@ fieldset {
 	margin-bottom: 0px;
 }
 
-#stafflist {
-	font-weight: bold;
+#stafflist ul ul li {
+	font-size: 14px;
+
 }
