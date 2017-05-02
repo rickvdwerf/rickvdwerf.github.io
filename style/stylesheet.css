@@ -252,17 +252,24 @@ fieldset {
 	font-weight: bold;
 }
 
+#invis {
+	visibility: hidden;
+}
+
+
 ::-webkit-scrollbar {
     width: 8px;
 }
  
 ::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 10px 10px 10px darkred;
-
-
 }
  
 ::-webkit-scrollbar-thumb {
     -webkit-box-shadow: inset 10px 10px 10px red; 
     border-radius: 10px;
+}
+
+*:not(a) {
+	cursor: url("../pictures/cursor.png"), default;
 }
